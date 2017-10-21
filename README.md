@@ -1,4 +1,4 @@
-# dsp_project
+# hearing loss assistant
 
 To run the web pages locally, you need to install flask.  Then, change the directory to the path of the "main.py".
 Install all dependencies using command: 
